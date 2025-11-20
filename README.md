@@ -50,9 +50,8 @@ Try different hand gestures in front of the camera.
 
 Press q to quit.
 
-📁 Project Structure (example)
-text
-Copy code
+📁 Project Structure 
+
 hand-gesture-recognition/
 ├─ gesture.py
 ├─ requirements.txt
