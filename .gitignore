@@ -1,0 +1,7 @@
+# Ignore virtual environment folders
+.venv/
+gesture_env/
+
+# Optional: ignore Python cache files
+__pycache__/
+*.pyc
