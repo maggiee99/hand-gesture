@@ -37,7 +37,7 @@ opencv-python
 
 mediapipe
 
-▶️ How to Run
+## ▶️ How to Run
 Make sure a webcam is connected.
 
 Run the Python script:
@@ -50,13 +50,8 @@ Try different hand gestures in front of the camera.
 
 Press q to quit.
 
-📁 Project Structure 
+**❗ Notes**
 
-hand-gesture-recognition/
-├─ gesture.py
-├─ requirements.txt
-└─ README.md
-❗ Notes
 If the webcam cannot be opened, the program will print an error message and exit.
 
 If no hand is detected, it shows: detecting....
